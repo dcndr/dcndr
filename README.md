@@ -1,7 +1,8 @@
 ## Hey, I'm Darren. 👋
 
 ### 🔭 Some current projects...
-- **SchoolScout**: The school helper web app for students across NSW.
+- [**Subjective**](https://bit.ly/sbjlabs): School tailored student organisation app for iOS, with support for live updating school data from the open-source server platform Subjective Assembly.
+- **SchoolScout**: The school helper web app for students across NSW. (now deprecated)
 - **Serif**: A simple text editor.
 
 Big things to come!
@@ -17,7 +18,7 @@ _@devdcandra_
 
   
 ### 📫 Let's chat!
-**Email:** darren@candra.dev
+**Email:** darrencndr@gmail.com
 
 **X:** @devdcandra
 
