@@ -3,7 +3,6 @@
 ### 🔭 Some current projects...
 - [**Subjective**](https://bit.ly/sbjlabs): School tailored student organisation app for iOS, with support for live updating school data from the open-source server platform Subjective Assembly.
 - **SchoolScout**: The school helper web app for students across NSW. (now deprecated)
-- **Serif**: A simple text editor.
 
 Big things to come!
 
