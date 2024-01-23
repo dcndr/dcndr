@@ -8,7 +8,7 @@ Big things to come!
 
  ### 🌱 Developing and learning with:
 - Swift
-- Web Stack (HTML/CSS/JS)
+- Web Stack (HTML/CSS/JS) incl. React
 
 ### 📣 What's happening?
 Check out my X profile for the latest and any project updates.
