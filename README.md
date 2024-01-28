@@ -1,7 +1,7 @@
 ## Hey, I'm Darren. 👋
 
 ### 🔭 Some current projects...
-- [**Subjective**](https://bit.ly/sbjlabs): School tailored student organisation app for iOS, with support for live updating school data from the open-source server platform Subjective Assembly.
+- [**Subjective**](https://subjective.school): The school-tailored student organisation platform, with support for live updating school information from the open-source server platform Subjective Assembly.
 - **SchoolScout**: The school helper web app for students across NSW. (now deprecated)
 
 Big things to come!
