@@ -8,7 +8,8 @@ Big things to come!
 
  ### 🌱 Developing and learning with:
 - Swift
-- Web Stack (HTML/CSS/JS) incl. React
+- Web on Vanilla, React and Solid
+- Rust (learning)
 
 ### 📣 What's happening?
 Check out my X profile for the latest and any project updates.
