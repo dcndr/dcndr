@@ -1,8 +1,8 @@
 ## Hello world, I'm Darren.
 
-### Some current projects...
+### Some projects...
 - [**Subjective**](https://subjective.school): The school-tailored student organisation platform, with support for live updating school information from the open-source server platform Subjective Assembly.
-- **SchoolScout**: The school helper web app for students across NSW. (now deprecated)
+- **SchoolScout**: The school helper web app for students across NSW. (now discontinued)
 
  ### Developing and learning with
 - Swift
